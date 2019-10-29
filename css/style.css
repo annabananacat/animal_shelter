@@ -2,8 +2,16 @@
   font-weight: bold;
 }
 
+.animal_column p{
+  background-color: blue;
+}
+
 .animal_column2 h3 {
   font-style: italic;
+}
+
+.animal_column2 p {
+  background-color: orange;
 }
 
 div {
