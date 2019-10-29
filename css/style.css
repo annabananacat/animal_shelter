@@ -18,3 +18,22 @@ div {
   float: left;
   width: 50%;
 }
+
+
+@media screen and (max-width: 650px) and (min-width: 300px) {
+  .animal_column2 {
+    background-color: #00FF7F;
+    color: #008080;
+    float: none;
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 1100px) and (min-width: 700px) {
+  .animal_column {
+    background-color: #AFEEEE;
+    color: 	#006400;
+    float: none;
+    width: 100%;
+  }
+}
